@@ -1,20 +1,8 @@
 ## Hey 👋, I'm Nasos!  
   
 
-<div align="center">
-<a href="https://github.com/Nasos001" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100011329274024&locale=el_GR" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-
-
 ### Glad to see you here!  
-I am an undergraduate student of University of Pireaus in the Digital Systems Department. My main passions are Informational Systems, Software Engineering and anything related to them! Data Analysis isn't my cup of tea though.
+I am an undergraduate greek student of University of Pireaus in the Digital Systems Department. My main passions are Informational Systems, Software Engineering and anything related to them! Data Analysis isn't my cup of tea though.
 
 Over the last 3 years of my university life, I have experimented with various tools and languages, such as C, Java, Python ans Javascript. After being exposed to many technologies, even though I don't particularly have much proficiency in them, I can safely say that I am leaning more towards Java and React / Typescript as my main languages.
 <br/><br/> 
@@ -52,13 +40,16 @@ Over the last 3 years of my university life, I have experimented with various to
 <a href="https://appwrite.io/" target="_blank"><img style="" src="https://avatars.githubusercontent.com/u/25003669?v=4" alt="Appwrite" height="50" /></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>  
+<br/><br/>
 
-<br/>  
+## Connect with me
 
-
-## Github Stats  
-
- [![Nasos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nasos001)](https://github.com/Nasos001/github-readme-stats)
-
-<br/>  
+<div align="center">
+<a href="https://github.com/Nasos001" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100011329274024&locale=el_GR" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>  
+</div>  
 

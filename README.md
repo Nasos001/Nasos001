@@ -14,12 +14,10 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
+I am an undergraduate student of University of Pireaus in the Digital Systems Department. My main passions are Informational Systems, Software Engineering and anything related to them! Data Analysis isn't my cup of tea though.
 
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
-  
-
-<br/>  
+Over the last 3 years of my university life, I have experimented with various tools and languages, such as C, Java, Python ans Javascript. After being exposed to many technologies, even though I don't particularly have much proficiency in them, I can safely say that I am leaning more towards Java and React / Typescript as my main languages.
+<br/><br/> 
 
 
 ## Rapidfire  
@@ -33,9 +31,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
   
 - ⚡ Fun fact: I mainly love anything related to Informational Systems.
-  
-
-<br/>  
+<br/><br/> 
 
 
 ## Languages and Tools  

@@ -12,7 +12,7 @@ Over the last 3 years of my university life, I have experimented with various to
 - 🔭 I’m currently working on a small Kubernetes research for a CODECO challenge.  
   
 
-- 🌱 I’m currently learning Spring Boot, React and Bootstrap through a small project.
+- 🌱 I’m currently learning Spring Boot, React and Tailwind through a small uni assignment.
   
 
 - 📝 My ongoing university thesis involves creating a serverless site embedded with ai.
@@ -40,16 +40,5 @@ Over the last 3 years of my university life, I have experimented with various to
 <a href="https://appwrite.io/" target="_blank"><img style="" src="https://avatars.githubusercontent.com/u/25003669?v=4" alt="Appwrite" height="50" /></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>  
-<br/><br/>
-
-## Connect with me
-
-<div align="center">
-<a href="https://github.com/Nasos001" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100011329274024&locale=el_GR" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-</div>  
+<br/><br/> 
 

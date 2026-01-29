@@ -12,9 +12,6 @@ Over the last 3 years of my university life, I have experimented with various to
 - 🔭 I’m currently working on a small Kubernetes research for a CODECO challenge.  
   
 
-- 🌱 I’m currently learning Spring Boot, React and Tailwind through a small uni assignment.
-  
-
 - 📝 My ongoing university thesis involves creating a serverless site embedded with ai.
 
   
@@ -34,6 +31,7 @@ Over the last 3 years of my university life, I have experimented with various to
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://bigoh.blr1.cdn.digitaloceanspaces.com/dca18052-ea8b-4cad-8b0c-6a58bfa72f20.webp" alt="SpringBoot" height="50" /></a>
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>

@@ -4,14 +4,12 @@
 ### Glad to see you here!  
 I am a greek undergraduate student of University of Pireaus in the Digital Systems Department. My main passions are Informational Systems, Software Engineering and anything related to them! Data Analysis isn't my cup of tea though.
 
-Over the last 3 years of my university life, I have experimented with various tools and languages, such as C, Java, Python and Javascript. After being exposed to many technologies, even though I don't particularly have much proficiency in them, I can safely say that I am leaning more towards Java and React / Typescript as my main languages.
+Over the last 3 years of my university life, I have experimented with various tools and languages, such as C, Java, Python and Javascript. After being exposed to many technologies, even though I don't particularly have much proficiency in them, I can safely say that I am leaning more towards Java and Typescript as my main languages.
 <br/><br/> 
 
 
-## Rapidfire  
-- 🔭 I’m currently working on a small Kubernetes research for a CODECO challenge.  
+## Rapidfire   
   
-
 - 📝 My ongoing university thesis involves creating a serverless site embedded with ai.
 
   

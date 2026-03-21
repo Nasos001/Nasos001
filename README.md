@@ -13,7 +13,7 @@ Over the last 4 years of my university life, I have experimented with various to
 - 📝 My ongoing university thesis involves creating a serverless site embedded with ai.
 
   
-- ⚡ Fun fact: I mainly love anything related to Informational Systems.
+- ⚡ Fun fact: I mainly love anything related to Information Systems!
 <br/><br/> 
 
 

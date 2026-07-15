@@ -2,18 +2,9 @@
   
 
 ### Glad to see you here!  
-I am a greek undergraduate student of University of Piraeus in the Digital Systems Department. My main passions are Information Systems, APIs, Microservices and anything related to them! Data Analysis isn't my cup of tea though.
+I am a greek undergraduate student of University of Piraeus in the Digital Systems Department. My main passions are Information Systems, APIs, Microservices, Data Privacy and anything related to them! Data Analysis isn't my cup of tea though.
 
-Over the last 4 years of my university life, I have experimented with various tools and languages, such as C, Java, Python and Javascript. After being exposed to many technologies, even though I don't particularly have much proficiency in them, I can safely say that I am leaning more towards Java and Typescript as my main languages.
-<br/><br/> 
-
-
-## Rapidfire   
-  
-- 📝 My ongoing university thesis involves creating a serverless site embedded with ai.
-
-  
-- ⚡ Fun fact: I mainly love anything related to Information Systems!
+Over the last 4 years of my university life, I have experimented with various tools and languages, such as C, Java, Python, Dart(Flutter) and Javascript. After being exposed to many technologies, even though I don't particularly have much proficiency in them, I can safely say that I am leaning more towards Java and Typescript as my main languages.
 <br/><br/> 
 
 

@@ -6,7 +6,7 @@
 
 I'm a backend boy! I like to think about the REST APIs, microservice communication, database management etc. I also find myself drawn to architecture, privacy-by-design and new technologies like ethical use of AI, blockchain and IoT. My main languages are Java, Kotlin and GO, though I also know how to use Javascript/Typescript. 
 
-Designing systems is my main passion, and in order to do that properly, I believe that one must know how to enforce Privacy-By-Design in the architecture of the system as well as various security methodologies and frameworks like Zero-Trust and STRIDE.
+Designing systems is my main passion, and in order to do that properly, I believe that one must know how to enforce Privacy-By-Design in the architecture of the system as well as various security methodologies and frameworks like Zero-Trust and STRIDE, which is why I'm currently in my road of understanding and applying privacy/security in information systems through projects and certified programs.
 <br/><br/><br/> 
 
 

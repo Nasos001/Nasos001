@@ -1,28 +1,31 @@
-## Hey 👋, I'm Nasos!  
+# Hello there! I'm Nasos!  
   
+<br>
 
-### Glad to see you here!  
-I am a greek undergraduate student of University of Piraeus in the Digital Systems Department. My main passions are Information Systems, APIs, Microservices, Data Privacy and anything related to them! Data Analysis isn't my cup of tea though.
+## A little bit about myself
 
-Over the last 4 years of my university life, I have experimented with various tools and languages, such as C, Java, Python, Dart(Flutter) and Javascript. After being exposed to many technologies, even though I don't particularly have much proficiency in them, I can safely say that I am leaning more towards Java and Typescript as my main languages.
-<br/><br/> 
+I'm a backend boy! I like to think about the REST APIs, microservice communication, database management etc. I also find myself drawn to architecture, privacy-by-design and new technologies like ethical use of AI, blockchain and IoT. My main languages are Java, Kotlin and GO, though I also know how to use Javascript/Typescript. 
+
+Designing systems is my main passion, and in order to do that properly, I believe that one must know how to enforce Privacy-By-Design in the architecture of the system as well as various security methodologies and frameworks like Zero-Trust and STRIDE.
+<br/><br/><br/> 
 
 
 ## Languages and Tools  
 <div align="center">  
   <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
   <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-  <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-  <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-  <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-  <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-  <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://bigoh.blr1.cdn.digitaloceanspaces.com/dca18052-ea8b-4cad-8b0c-6a58bfa72f20.webp" alt="SpringBoot" height="50" /></a>
   <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-  <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+  <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://cms-assets.tutsplus.com/uploads/users/362/posts/29304/preview_image/picKotlin.jpg" alt="Kotlin" height="50" width="55" /></a>
+  <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/c7024f36-7949-4a7f-a550-94216bd4e84a" alt="GO" height="50" width="55"/></a>
+</div>
+<br>
+<div align="center">  
+  <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://bigoh.blr1.cdn.digitaloceanspaces.com/dca18052-ea8b-4cad-8b0c-6a58bfa72f20.webp" alt="SpringBoot" height="50" /></a>
+  <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/1*1UBNwRFaslvqt_G3Njw3pg.jpeg" alt="Node.js" height="50" width="55" /></a>  
   <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
   <a href="https://appwrite.io/" target="_blank"><img style="" src="https://avatars.githubusercontent.com/u/25003669?v=4" alt="Appwrite" height="50" /></a>
-  <a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" alt="Vercel" height="50" /></a>  
-</div>  
+  <a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" alt="Vercel" height="50" /></a>
+  <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+</div>
 <br/><br/> 
 

@@ -14,8 +14,8 @@ Designing systems is my main passion, and in order to do that properly, I believ
 <div align="center">  
   <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
   <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-  <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-  <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://cms-assets.tutsplus.com/uploads/users/362/posts/29304/preview_image/picKotlin.jpg" alt="Kotlin" height="50" width="55" /></a>
+  <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrq4GlkPXiDAIZ8dVg1TeagFU2z6mVwrVNaggApL17iTAJDom1WqpGYXI&s=10" alt="Java" height="50" /></a>  
+  <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://play-lh.googleusercontent.com/IAMxfBpa1WZoyKeh81tiDAZxyYBwHJRhxkawWX3wgoUvtZ_AZ0Y4EvqfjMt2DPB9egBuykjFey7KwzQUTeIyfg=w240-h480-rw" alt="Kotlin" height="50" width="55" /></a>
   <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/c7024f36-7949-4a7f-a550-94216bd4e84a" alt="GO" height="50" width="55"/></a>
 </div>
 <br>
